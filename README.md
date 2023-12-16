@@ -22,6 +22,8 @@ def cast_spell():
     
 cast_spell()
 
+## 🪄✨ Mystical Code Incantation
+
 ```python
 def cast_mystic_spell():
     print("Expecto Patronum! 🦄✨")
