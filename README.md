@@ -10,7 +10,7 @@
 
 ## Connect with Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-FAcebookProfile-blue)](https://www.facebook.com/in/your-facebook-profile)
+[![Facebook](https://img.shields.io/badge/Facebook-FacebookProfile-blue)](https://www.facebook.com/in/your-facebook-profile)
 [![Twitter](https://img.shields.io/badge/Twitter-YourTwitterHandle-blue)](https://twitter.com/your-twitter-handle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-YourPortfolio-green)](https://your-portfolio.com)
 
