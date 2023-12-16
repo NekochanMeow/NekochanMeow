@@ -23,21 +23,6 @@ def brew_magical_elixir():
 brew_magical_elixir()
 
 
-## GitHub Stats
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## Coding Activity
-
-[![My Coding Activity](https://github-readme-stats.vercel.app/api/wakatime?username=your-username&layout=compact&custom_title=Coding%20Activity)](https://wakatime.com/@your-username)
-
-## Technologies & Tools
-
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![React](https://img.shields.io/badge/React-16.8+-blue)
-![Node.js](https://img.shields.io/badge/Node.js-LTS-green)
-![Python](https://img.shields.io/badge/Python-3.8+-blue)
-![Git](https://img.shields.io/badge/Git-GitHub-black)
 
 
 
