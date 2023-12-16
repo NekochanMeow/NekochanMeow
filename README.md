@@ -22,10 +22,6 @@ def brew_magical_elixir():
     
 brew_magical_elixir()
 
-$ cd ~/EpicCodeQuest
-$ potion create --name=epic-enchantment
-$ git cast --spell="Push to the Mythical Repository"
-
 
 
 
