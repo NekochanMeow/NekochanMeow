@@ -14,7 +14,6 @@
 
 <p align="left">✨ Creating bugs since Full stack developer.<br>📚 I'm currently learning programming.<br>🎯 Goals: Want to be a highly skilled programmer.<br>
 
-###
 
 <h3 align="left">Languages and Tools:</h3>
 
