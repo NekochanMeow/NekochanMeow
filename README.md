@@ -1,8 +1,8 @@
-<h1 align="left">Hi 👋! My name is NekochanMeow </h1>
+<h1 align="left">Hi 👋! My name is Sakawrat Watpoung </h1>
 
 ###
 
-<p align="left">My name is Sakawrat Watpoung I am a student from Kasetsart University Kamphaeng Saen Campus.</p>
+<p align="left">I am a student from Kasetsart University Kamphaeng Saen Campus.</p>
 
 
 <p align="left">📫 How to reach me **sakawrat.w@ku.th**</p>
