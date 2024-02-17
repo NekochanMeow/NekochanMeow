@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋! My name is Sakawrat Watpoung </h1>
 
-###
+
 
 <p align="left">I am a student from Kasetsart University Kamphaeng Saen Campus.</p>
 
@@ -15,7 +15,7 @@
 <p align="left">✨ Creating bugs since Full stack developer.<br>📚 I'm currently learning programming.<br>🎯 Goals: Want to be a highly skilled programmer.<br>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 
 ###
 
@@ -23,14 +23,14 @@
 
 ###
 
-<h3 align="left">Achievements :</h3>
+<h3 align="left">Achievements</h3>
 
 ### 
 
 <p align="left">https://learn.microsoft.com/en-gb/users/me/achievements?source=docs#trophies-section</p>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 
 ### 
 
