@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi 👋! My name is NekochanMeow </h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Sakawrat Watpoung I am a student from Kasetsart University Kamphaeng Saen Campus.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since Full stack developer.<br>📚 I'm currently learning programming.<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
