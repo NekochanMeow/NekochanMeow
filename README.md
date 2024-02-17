@@ -5,9 +5,7 @@
 <p align="left">My name is Sakawrat Watpoung I am a student from Kasetsart University Kamphaeng Saen Campus.</p>
 
 
-###
-
-<h2 align="left">📫 How to reach me **sakawrat.w@ku.th**</h2>
+<h3 align="left">📫 How to reach me **sakawrat.w@ku.th**</h3>
 
 
 <h2 align="left">About me</h2>
