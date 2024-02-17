@@ -9,7 +9,6 @@
 
 <h2 align="left">📫 How to reach me **sakawrat.w@ku.th**</h2>
 
-###
 
 <h2 align="left">About me</h2>
 
